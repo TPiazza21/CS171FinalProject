@@ -26,13 +26,13 @@
 `js/`: Contains our JS files listed below plus library files for jQuery, Bootstrap, and fullView
 - `main.js`: Main JS file that loads in the data, creates the visualizations, and handles various button/menu interactions
 - `adjMatrixVis.js`: Creates the adjacency matrix with coauthor publication data (interacts with `wordBarVis.js`)
-- `chordVis.js`: Creates a chord visualization of inter-faculty relationships between Harvard buildings (interacts with `mapVis.js`)
+- `chordVis.js`: Creates the chord visualization of inter-faculty relationships between Harvard buildings (interacts with `mapVis.js`)
 - `groupDotsVis.js`: Creates the dot visualization with faculty departments and office locations
 - `manyTableVis.js`: Creates the table visualization with faculty and research interest
-- `mapVis.js`: Creates a map visualization with pins for faculty office locations (interacts with `nodeData.js` and `chordVis.js`)
+- `mapVis.js`: Creates the map visualization with pins for faculty office locations (interacts with `nodeData.js` and `chordVis.js`)
 - `nodeData.js`: Contains faculty data with coordinates for office locations
 - `network.js`: Creates the network visualization with faculty nodes and inter-faculty relationship edges (interacts with `networkBarVis.js`)
-- `networkBarVis.js`: Creates a faculty profile with photo and a bar graph with number of inter-faculty relationships (interacts with`network.js`)
+- `networkBarVis.js`: Creates the faculty profile with photo and a bar graph with number of inter-faculty relationships (interacts with`network.js`)
 - `relationshipVis.js`: Creates the relationship visualization with faculty, departments, and centers
 - `wordbarVis.js`: Creates the word histogram (interacts with `adjMatrixVis.js`)
 
