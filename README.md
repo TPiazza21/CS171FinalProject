@@ -8,7 +8,7 @@
 - Eliza Grinnell, grinnell@seas.harvard.edu
 
 **Project Website**: https://tpiazza21.github.io/<br/>
-**Project Video**: link
+**Project Video**: https://youtu.be/8ZhxEIV2MsM
 
 ## Project Files
 
